@@ -1,0 +1,10 @@
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\bin\Debug\WhichMathForm.exe.config
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\bin\Debug\WhichMathForm.exe
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\bin\Debug\WhichMathForm.pdb
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.csprojAssemblyReference.cache
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.mathPlacementForm.resources
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.Properties.Resources.resources
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.csproj.GenerateResource.cache
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.csproj.CoreCompileInputs.cache
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.exe
+c:\users\marley\source\repos\WhichMathForm\WhichMathForm\obj\Debug\WhichMathForm.pdb
